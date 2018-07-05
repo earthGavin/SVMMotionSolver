@@ -1,10 +1,6 @@
 # SVMMotionSolver
 
-  =========                 |
-  \\      /  F ield         | foam-extend: Open Source CFD
-   \\    /   O peration     |
-    \\  /    A nd           | For copyright notice see file Copyright
-     \\/     M anipulation  |
+Parallel mesh deformation solver based on OpenFOAM using SVM method.
 
 License
     This file is part of foam-extend.
@@ -21,6 +17,3 @@ License
 
     You should have received a copy of the GNU General Public License
     along with foam-extend.  If not, see <http://www.gnu.org/licenses/>.
-
-
-Parallel mesh deformation solver based on OpenFOAM using SVM method.
