@@ -1,0 +1,4 @@
+svm.cpp
+SVMMotionSolver.C
+
+LIB = $(FOAM_USER_LIBBIN)/libSVMMotionSolver
