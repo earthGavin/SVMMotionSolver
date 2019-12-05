@@ -16,3 +16,6 @@ License:This file is part of foam-extend.
 
     You should have received a copy of the GNU General Public License
     along with foam-extend.  If not, see <http://www.gnu.org/licenses/>.
+
+# Paper
+Gao, Xiang, et al. "Developing a parallel density-based implicit solver with mesh deformation in OpenFOAM." Journal of computational science 28 (2018): 59-69. https://doi.org/10.1016/j.jocs.2018.07.006
